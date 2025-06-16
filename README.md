@@ -2,7 +2,6 @@
 
 StoryLens is an AI-powered web application that transforms your photos into creative stories and poems with audio narration. Upload any image and let our AI analyze it to generate a unique narrative that captures the essence of your photo.
 
-![StoryLens Logo](public/favicon.ico)
 
 ## Features
 
